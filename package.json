@@ -1,12 +1,12 @@
 {
-  "name": "angular-seed",
+  "name": "Vocabulary-Training",
   "private": true,
   "version": "0.0.0",
   "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/enzhao/Voc-Training-App",
   "license": "MIT",
   "devDependencies": {
-    "karma": "~0.10",
+    "karma": "^0.10",
     "protractor": "^1.1.1",
     "http-server": "^0.6.1",
     "bower": "^1.3.1",
